@@ -1,0 +1,19 @@
+header {
+    /* Set a background color */
+    background-color: #333;
+
+    /* Add some padding to the top and bottom */
+    padding: 10px 0;
+
+    /* Center the text horizontally */
+    text-align: center;
+
+    /* Set the font color */
+    color: white;
+
+    /* Increase the font size */
+    font-size: 24px;
+
+    /* Add a border to the bottom */
+    border-bottom: 2px solid white;
+}
